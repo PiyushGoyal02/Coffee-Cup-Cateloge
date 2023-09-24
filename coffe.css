@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+}
+
+.wrapper{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    border:1px solid black;
+    height: 336px;
+    width: 600px;
+    border-radius: 30px;
+
+}
+
+.cup{
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Russo One', sans-serif; 
+    font-size: x-large;
+    margin: 10px;
+}
+
+h1{
+font-family: 'Caprasimo', cursive;
+font-family: 'IBM Plex Mono', monospace;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Russo One', sans-serif;
+margin: 10px;
+}
+
+.para{
+    margin: 10px;
+}
+
+.st{
+    margin:10px;
+}
+
+span{
+
+    color: rgb(36, 124, 124);
+    font-size: x-large;
+    margin:10px;
+}
+
+button{
+    margin: 30px;
+    padding: 10px;
+    background-color: rgb(36, 124, 124);
+    color:whitesmoke;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+}
+
